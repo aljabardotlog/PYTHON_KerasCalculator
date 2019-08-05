@@ -1,5 +1,5 @@
 # PYTHON_KivyCalculator
-This is sample code to make a simple calculator by using Keras in python
+This is a sample and a simple code to make a simple calculator by using Keras in python
 
 How simple is this code.
 
